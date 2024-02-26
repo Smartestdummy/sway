@@ -33,7 +33,7 @@ If not already done, add the Cargo bin directory to your `PATH` by adding the fo
 export PATH="${HOME}/.cargo/bin:${PATH}"
 ```
 
-### Building Forc
+### Building Fork
 
 Clone the repository and build the Sway toolchain:
 
